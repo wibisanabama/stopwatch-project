@@ -1,2 +1,2 @@
-# stopwatch-project
+# Stopwatch Project
 Second Python project
